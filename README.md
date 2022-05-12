@@ -27,7 +27,7 @@ This website was improved using the the Acceptance Criteria mentioned below:
 - GitHub repository now contains the application code.
 
 ### **Deployed website link:**
-
+https://rakibca.github.io/horiseon.github.io
 
 
 ### **Credits:**
